@@ -1,0 +1,9 @@
+2023-09-10 18:15:01,358.v2_listen_for_messages.INFO ==================================================
+2023-09-10 18:15:01,359.v2_listen_for_messages.INFO Today is 2023-09-10 at 06:15 PM
+2023-09-10 18:15:01,359.v2_listen_for_messages.INFO Running on: nt Windows 10
+2023-09-10 18:15:01,360.v2_listen_for_messages.INFO Python version:  3.11.5
+2023-09-10 18:15:01,360.v2_listen_for_messages.INFO Python path: C:\Users\cori.tynes\Desktop\Documents_44671\MOD3\streaming-03-rabbitmq\.venv
+2023-09-10 18:15:01,360.v2_listen_for_messages.INFO Working dir: C:\Users\cori.tynes\Desktop\Documents_44671\MOD3\streaming-03-rabbitmq
+2023-09-10 18:15:01,361.v2_listen_for_messages.INFO ==================================================
+2023-09-10 18:15:01,382.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2023-09-10 18:15:01,383.v2_listen_for_messages.INFO Received: Cori is very cool!
